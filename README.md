@@ -4,4 +4,4 @@
 > 3. Deep Learning (NLP) * Text Preprocessing - Tokenization, RE, Integer Encoding, One-hot encoding
 >  
 > 
-> Sources include: Materials found online books, blogs & Learning materials from the DSBA Program 
+> Sources include: Online materials found in books, blogs & Learning materials from the DSBA Program 
